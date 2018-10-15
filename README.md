@@ -1,3 +1,3 @@
 # QuickMenu
 
-Simple program that presents you a Quick Menu
+Simple programme qui présente le menu au Quick
